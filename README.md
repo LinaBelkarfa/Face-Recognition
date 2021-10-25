@@ -1,4 +1,5 @@
 # Face-Recognition
+Un script de reconnaissance faciale qui se lance à partir de la webCam.
 
 <!-- TABLE OF CONTENTS -->
 <details>
