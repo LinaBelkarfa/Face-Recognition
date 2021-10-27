@@ -19,10 +19,12 @@ Un script de reconnaissance faciale qui se lance à partir de la webCam.
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
 ### UTILISATION DE LA RECONNAISSANCE FACIALE AVEC OPENCV 
-Cette réalisation fut faite dans le cadre d’un projet robotique. Le robot devant pouvoir se déplacer à distance, ou de manière autonome, grâce à des requêtes MQTT et un ESP32. Nous avons décidé d’ajouter à ce robot la possibilité de reconnaître des individus dont il a les photos.
-Dans ce repo vous trouverez donc le code py à lancer avec la commande : py 'final.py'
-Pensez à charger les photos des personnes à reconnaitre avant de lancer le script, et modifier dans le début du script les chemins de cez mêmes photos.
-Pensez également à charger le fichier haarcascade_frontalface_default.xml afin que vous disposiez du modèle.
+* Cette réalisation fut faite dans le cadre d’un projet robotique. 
+* Le robot devant pouvoir se déplacer à distance, ou de manière autonome, grâce à des requêtes MQTT et un ESP32. 
+* Nous avons décidé d’ajouter à ce robot la possibilité de reconnaître des individus dont il a les photos.
+* Dans ce repo vous trouverez donc le code py à lancer avec la commande : py 'final.py'
+* Pensez à charger les photos des personnes à reconnaitre avant de lancer le script, et modifier dans le début du script les chemins de cez mêmes photos.
+* Pensez également à charger le fichier haarcascade_frontalface_default.xml afin que vous disposiez du modèle.
 
 
 ### Built With
